@@ -1,0 +1,1 @@
+Issues são os registros de tarefa serem executadas no repositório
